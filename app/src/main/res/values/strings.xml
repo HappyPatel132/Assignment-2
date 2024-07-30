@@ -1,0 +1,11 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">SimpleInfoApp</string>
+
+    <!-- Spinner Options -->
+    <string-array name="spinner_options">
+        <item>Shirt</item>
+        <item>T-shirt</item>
+        <item>jeans</item>
+    </string-array>
+</resources>
